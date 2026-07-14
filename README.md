@@ -14,7 +14,7 @@ Public token asset repository for the SATIS Investment Token Suite.
 ## Etherscan fields
 
 Official Project Website:
-`https://<your-github-username>.github.io/satis-token-assets/`
+https://gredcredit.github.io/satis-token-assets/
 
 Link to download a 32x32 svg icon logo:
-`https://<your-github-username>.github.io/satis-token-assets/tokens/sausd.svg`
+https://gredcredit.github.io/satis-token-assets/tokens/sausd.svg
